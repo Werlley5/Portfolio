@@ -372,6 +372,7 @@ footer {
 
     .project-card {
         max-width: 350px;
+        padding: 10px;
     }
 
     .footer-title {
